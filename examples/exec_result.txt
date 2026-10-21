@@ -1,0 +1,7 @@
+PS C:\Users\sergn\OneDrive\Рабочий стол\Course\weather> & C:\Users\sergn\AppData\Local\Programs\Python\Python313\python.exe "c:/Users/sergn/OneDrive/Рабочий стол/Course/weather/main.py"
+
+Погода в Иркутске сейчас (2026-10-21 19:23):
+температура 0°
+ветер 2 м/с
+влажность 82%
+давление 713 мм рт. ст.
